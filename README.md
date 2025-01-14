@@ -17,3 +17,7 @@ vent a MitM from disrupting the operations and prohibiting
  experimental results for emergency detection show that our
  approach can achieve a high detection accuracy with a low
  false alarm rate of 3%
+
+
+ ![image](https://github.com/user-attachments/assets/e8c517a6-b7f1-4a14-bbd5-c990a1097283)
+
