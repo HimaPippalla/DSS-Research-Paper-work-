@@ -24,3 +24,15 @@ vent a MitM from disrupting the operations and prohibiting
 ## Components of proposed framework
 
 ![image](https://github.com/user-attachments/assets/69368b08-522e-4329-bd93-175ff49421ad)
+
+
+## Alert Generation Conditions:
+### If both RSSI and LSH-Min Hash indicate an anomaly:
+Trigger a high-priority alert indicating a strong likelihood of a genuine abnormality or security breach.
+### If only one method detects an issue (RSSI fluctuates but LSH-Min Hash is normal):
+Trigger a low-priority alert, allowing the monitoring system to log but not react with full intervention.
+### If both methods are normal: 
+No alert, as the data is considered consistent and authenticated.
+
+![image](https://github.com/user-attachments/assets/e6f71e9b-3294-4b14-bc18-89812178c508)
+
