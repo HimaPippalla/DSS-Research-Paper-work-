@@ -21,3 +21,6 @@ vent a MitM from disrupting the operations and prohibiting
 
  ![image](https://github.com/user-attachments/assets/e8c517a6-b7f1-4a14-bbd5-c990a1097283)
 
+## Components of proposed framework
+
+![image](https://github.com/user-attachments/assets/69368b08-522e-4329-bd93-175ff49421ad)
